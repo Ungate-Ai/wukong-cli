@@ -1,4 +1,4 @@
-<img width="1345" alt="image" src="https://github.com/user-attachments/assets/86f362d3-50c3-4b53-885d-6e2cb05fc5a3" /># wukong-cli-releases
+# wukong-cli-releases
 Wukong-Cli is our entrypoint for the trust layer for AI Agents
 
 ## Quick Start
