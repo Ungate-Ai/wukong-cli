@@ -7,10 +7,17 @@ Wukong-Cli is our entrypoint for the trust layer for AI Agents
 
 [ Need sudo permissions ]
 
-Linux/MacOS:
+## Linux/MacOS:
+Open the Terminal
+```
 bash install.sh
-Windows:
-install.bat (or right click and run as administrator)
+```
+## Windows:
+Open the Command Prompt
+```
+install.bat 
+```
+(or right click and run as administrator)
 
 ### Login to Wukong
 
