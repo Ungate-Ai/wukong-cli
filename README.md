@@ -1,18 +1,17 @@
-# wukong-cli-releases
+<img width="1345" alt="image" src="https://github.com/user-attachments/assets/86f362d3-50c3-4b53-885d-6e2cb05fc5a3" /># wukong-cli-releases
 Wukong-Cli is our entrypoint for the trust layer for AI Agents
 
 ## Quick Start
 
-### Install Wukong CLI
-
-[ Need sudo permissions ]
-
-## Linux/MacOS:
-Open the Terminal
+## Install Wukong CLI
+### Linux/MacOS:
+Open the Terminal 
+- Go to the directory where the binary is downloaded
 ```
 bash install.sh
 ```
-## Windows:
+This will ask for your machine's/user's password (needs sudo permission)
+### Windows:
 Open the Command Prompt
 ```
 install.bat 
@@ -24,12 +23,18 @@ install.bat
 ```bash
 wukong login
 ```
+You will be asked for a 
+- wallet name: For easy identification
+- private key of the wallet
 
+This should be an ERC20 wallet. Deposit 0.001 ETH and 1 USDC to the wallet on the Arbitrum One network.
+  
 ### Create a deployment
 
 ```bash
 wukong deployment create
 ```
+
 
 Commands
 Global Flags
